@@ -1,0 +1,22 @@
+header{
+    background-color: black;
+    padding-top: 90px;
+    padding-bottom: 30px;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+h3{
+    color: white;
+    text-align: center;
+}
+div{
+    text-align: center;
+    color:white;
+}
+a {background-color: grey}
+
+body {
+	background: black;
+}
